@@ -1,0 +1,16 @@
+# vscode
+.vscode
+
+# object files
+build
+
+# tests are not submitted
+tests
+
+# Makefile is not required for this project
+Makefile
+
+# Executables
+a.out
+gnl
+gnl_bonus
